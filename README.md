@@ -1,5 +1,7 @@
 # JEC-kt
 
+[![GitHub Actions status](https://github.com/jabacat/JEC-kt/actions/workflows/gradle.yml/badge.svg)](https://github.com/jabacat/JEC-kt/actions)
+
 Jabacat's Easy Config
 
 [JEC-py](https://github.com/jabacat/JEC-py) | [JEC-rs](https://github.com/jabacat/JEC-rs) | [JEC-go](https://github.com/jabacat/JEC-go) | JEC-c | [JEC-c++](https://github.com/jabacat/JEC-cpp) | JEC-zig | JEC-ts | [JEC-kt](https://github.com/jabacat/JEC-kt)
